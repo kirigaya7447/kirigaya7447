@@ -29,6 +29,12 @@
   <img id="debian" height="110px" width="150px" src="https://penseemti.com.br/wp-content/uploads/2020/08/debian-logo.png">
   <img id="kali" height="100px" width="100px" src="https://w7.pngwing.com/pngs/274/372/png-transparent-kali-linux-backtrack-linux-distribution-offensive-security-certified-professional-linux-blue-text-logo-thumbnail.png">
   </div>
+  <br>
+  <div>
+  <h3>Cursos:</h3>
+  <img id="ite" height="150px" width="170px" src="https://guiadeti.com.br/wp-content/uploads/2021/09/guia-cursos-cisconetworkingacademy.png">
+  <img id="tdi" height="145px" width="120px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
+</div>
   
   <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
   
