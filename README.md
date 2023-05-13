@@ -14,4 +14,6 @@
   </div>
   <br>
   
+  <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirigaya7447&show_icons=true&count_private=true&theme=synthwave)
