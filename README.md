@@ -14,6 +14,12 @@
   <img height="80px" width="80px" src="https://logospng.org/download/php/logo-php-1024.png">
   </div>
   <br>
+  <div>
+  <h3>Instituição do ensino médio e infomática:</h3>
+  <p>Instituto federal do Sul de Minas Campus Pouso Alegre</p>
+  <p>Endereço: Avenida Maria da Conceição Santos nº 900, Bairro Parque Real, CEP: 37560-260 - Pouso Alegre/MG</p>
+  <a href="https://goo.gl/maps/jFsxvNYMjxMhyHGV9" target="t_blank">Localização</a>
+  </div>
   
   <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
   
