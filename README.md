@@ -40,6 +40,6 @@
 </div>
 <br>
 <hr size="10" color="grey">
-  
+  <img height="325" width="450" src="https://luistavares.com/wp-content/uploads/2011/06/software.jpg">
   <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
   
