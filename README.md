@@ -7,7 +7,7 @@
   <p>Programo em:</p>
   <img id="C" height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFH7PBN3gsAx22yIadSQI5B_WozvCgJjyBw&usqp=CAU">
   <img id="java" height="95px" width="65px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-  <img id="python" height="80px" width="80px" src="https://logosmarcas.net/wp-content/uploads/2021/10/Python-Emblema.jpg">
+  <img id="python" height="80px" width="80px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
   <img id="html" height="80px" width="80px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
   <img id="css" height="85px" width="90px" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img id="js" height="95px" width="90px" src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1">
