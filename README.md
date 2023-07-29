@@ -5,7 +5,7 @@
 <div>
   <h2>Hello my name is João Henrique, I have 17 years and living from Brazil</h2>
   <p>Programo em:</p>
-  <img id="C" height="80px" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFH7PBN3gsAx22yIadSQI5B_WozvCgJjyBw&usqp=CAU">
+  <img id="cLang" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
   <img id="java" height="95px" width="65px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
   <img id="python" height="80px" width="80px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
   <img id="html" height="80px" width="80px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
