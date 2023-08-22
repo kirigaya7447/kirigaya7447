@@ -1,7 +1,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirigaya7447&show_icons=true&count_private=true&theme=synthwave)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirigaya7447&layout=compact)](https://github.com/kirigaya7447/TCC)
-
 <div>
   <h2>Hello my name is João Henrique, I have 17 years and living from Brazil</h2>
   <p>Programo em:</p>
