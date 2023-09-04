@@ -10,36 +10,35 @@
   <img id="css" height="85px" width="90px" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img id="js" height="95px" width="90px" src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1">
   <img id="php" height="95px" width="115px" src="https://logospng.org/download/php/logo-php-1024.png">
-  </div>
-  <br>
-  <div>
-  <hr size="10" color="grey">
+</div>
+<br>
+<div>
+  <hr style="height: 10px; color: grey;">
   <h3>Instituição do ensino médio e infomática:</h3>
   <p>Instituto federal do Sul de Minas Campus Pouso Alegre</p>
   <p>Endereço: Avenida Maria da Conceição Santos nº 900, Bairro Parque Real, CEP: 37560-260 - Pouso Alegre/MG</p>
   <a href="https://goo.gl/maps/jFsxvNYMjxMhyHGV9">
     <img height="145px" width="120px" src="https://portal.poa.ifsuldeminas.edu.br/images/2018/Agosto/22/IFSULDEMINAS_Pouso-Alegre-aplica%C3%A7%C3%B5es-verticais.png"></a>
-    <br>
-    <small>Clique na imagem!</small>
-  </div>
   <br>
-  <hr size="10" color="grey">
-  <div>
+  <small>Clique na imagem!</small>
+</div>
+<br>
+<hr style="height: 10px; color: grey;">
+<div>
   <h3>Sistemas Operacionais conhecidos:</h3>
   <img id="windows" height="150px" width="165px" src="https://cdn.pixabay.com/photo/2012/04/10/23/33/logo-27046_1280.png">
   <img id="ubuntu" height="125px" width="215px" src="https://logodownload.org/wp-content/uploads/2017/11/ubuntu-logo.png">
   <img id="debian" height="155px" width="225px" src="https://penseemti.com.br/wp-content/uploads/2020/08/debian-logo.png">
   <img id="kali" height="145px" width="185px" src="https://static.javatpoint.com/tutorial/kali-linux/images/kali-linux-tutorial1.png">
-  </div>
-  <br>
-  <hr size="10" color="grey">
-  <div>
+</div>
+<br>
+<hr style="height: 10px; color: grey;">
+<div>
   <h3>Cursos:</h3>
   <img id="ite" height="150px" width="170px" src="https://guiadeti.com.br/wp-content/uploads/2021/09/guia-cursos-cisconetworkingacademy.png">
   <img id="tdi" height="150px" width="130px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
 </div>
 <br>
-<hr size="10" color="grey">
-  <img height="325" width="450" src="https://luistavares.com/wp-content/uploads/2011/06/software.jpg">
-  <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
-  
+<hr style="height: 10px; color: grey;">
+<img height="325" width="450" src="https://luistavares.com/wp-content/uploads/2011/06/software.jpg">
+<img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
