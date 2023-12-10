@@ -1,4 +1,4 @@
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirigaya7447&show_icons=true&count_private=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirigaya7447&show_icons=true&count_private=true&theme=synthwave)
  
 <div>
   <h2>Hello my name is João Henrique, I have 17 years and living from Brazil</h2>
