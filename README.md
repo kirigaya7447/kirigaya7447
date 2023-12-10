@@ -18,7 +18,7 @@
   <h3>Secondary education and IT instituition:</h3>
   <p>Instituto federal do Sul de Minas Campus Pouso Alegre</p>
   <p>Address: Avenida Maria da Conceição Santos nº 900, Bairro Parque Real, CEP: 37560-260 - Pouso Alegre/MG</p>
-  <a href="https://goo.gl/maps/jFsxvNYMjxMhyHGV9">
+  <a href="https://goo.gl/maps/jFsxvNYMjxMhyHGV9" target="_blank">
     <img height="145px" width="120px" src="https://portal.poa.ifsuldeminas.edu.br/images/2018/Agosto/22/IFSULDEMINAS_Pouso-Alegre-aplica%C3%A7%C3%B5es-verticais.png"></a>
   <br>
   <small>Click in image!</small>
