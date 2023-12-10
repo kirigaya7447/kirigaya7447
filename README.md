@@ -2,7 +2,7 @@
  
 <div>
   <h2>Hello my name is João Henrique, I have 17 years and living from Brazil</h2>
-  <p>Programo em:</p>
+  <p>Program in:</p>
   <img id="cLang" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
   <img id="java" height="95px" width="65px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
   <img id="python" height="80px" width="80px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
@@ -15,18 +15,18 @@
 <br>
 <div>
   <hr style="height: 10px; color: grey;">
-  <h3>Instituição do ensino médio e infomática:</h3>
+  <h3>Secondary education and IT instituition:</h3>
   <p>Instituto federal do Sul de Minas Campus Pouso Alegre</p>
-  <p>Endereço: Avenida Maria da Conceição Santos nº 900, Bairro Parque Real, CEP: 37560-260 - Pouso Alegre/MG</p>
+  <p>Address: Avenida Maria da Conceição Santos nº 900, Bairro Parque Real, CEP: 37560-260 - Pouso Alegre/MG</p>
   <a href="https://goo.gl/maps/jFsxvNYMjxMhyHGV9">
     <img height="145px" width="120px" src="https://portal.poa.ifsuldeminas.edu.br/images/2018/Agosto/22/IFSULDEMINAS_Pouso-Alegre-aplica%C3%A7%C3%B5es-verticais.png"></a>
   <br>
-  <small>Clique na imagem!</small>
+  <small>Click in image!</small>
 </div>
 <br>
 <hr style="height: 10px; color: grey;">
 <div>
-  <h3>Sistemas Operacionais conhecidos:</h3>
+  <h3>Know Operating Systems:</h3>
   <img id="windows" height="150px" width="165px" src="https://cdn.pixabay.com/photo/2012/04/10/23/33/logo-27046_1280.png">
   <img id="ubuntu" height="125px" width="215px" src="https://logodownload.org/wp-content/uploads/2017/11/ubuntu-logo.png">
   <img id="debian" height="155px" width="225px" src="https://penseemti.com.br/wp-content/uploads/2020/08/debian-logo.png">
@@ -35,7 +35,7 @@
 <br>
 <hr style="height: 10px; color: grey;">
 <div>
-  <h3>Cursos:</h3>
+  <h3>Courses:</h3>
   <img id="ite" height="150px" width="170px" src="https://guiadeti.com.br/wp-content/uploads/2021/09/guia-cursos-cisconetworkingacademy.png">
   <img id="tdi" height="150px" width="130px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
 </div>
