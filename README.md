@@ -44,7 +44,8 @@
 <div>
     <h3>My repositories:</h3>
   <a href="https://github.com/kirigaya7447/Game-in-java" target="_blank">Java game</a>
-  <a href="https://github.com/kirigaya7447/react-native" target="_blank">React Native</a>
+  <br>
+  https://github.com/kirigaya7447/react-native
 </div>
 <br>
 <hr style="height: 10px; color: grey;">
