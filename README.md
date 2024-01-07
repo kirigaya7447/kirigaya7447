@@ -43,9 +43,11 @@
 <br>
 <div>
     <h3>My repositories:</h3>
-  <a href="https://github.com/kirigaya7447/Game-in-java" target="_blank">Java game</a>
+  <a href="https://github.com/kirigaya7447/Game-in-java">Java game</a>
+  <p>In this repository above, I started a game with the Java language. It's in space, we control an alien on a ship and face other aliens.</p>
   <br>
-  https://github.com/kirigaya7447/react-native
+  <a href="https://github.com/kirigaya7447/react-native">Studying react</a>
+  <p>My studies with react-native expo. I made some directories targeted at some specific functions.</p>
 </div>
 <br>
 <hr style="height: 10px; color: grey;">
