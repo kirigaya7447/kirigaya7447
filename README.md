@@ -41,6 +41,7 @@
   <img id="tdi" height="150px" width="130px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
 </div>
 <br>
+<hr style="height: 15px; color=grey;">
 <div>
     <h3>My repositories:</h3>
   <a href="https://github.com/kirigaya7447/Game-in-java">Java game</a>
@@ -50,5 +51,5 @@
   <p>My studies with react-native expo. I made some directories targeted at some specific functions.</p>
 </div>
 <br>
-<hr style="height: 10px; color: grey;">
+<hr style="height: 15px; color: grey;">
 <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
