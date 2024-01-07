@@ -41,5 +41,11 @@
   <img id="tdi" height="150px" width="130px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
 </div>
 <br>
+<div>
+    <h3>My repositories:</h3>
+  <a href="https://github.com/kirigaya7447/Game-in-java" target="_blank">Java game</a>
+  <a href="https://github.com/kirigaya7447/react-native" target="_blank">React Native</a>
+</div>
+<br>
 <hr style="height: 10px; color: grey;">
 <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
