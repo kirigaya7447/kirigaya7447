@@ -54,7 +54,10 @@
 <hr style="height: 15px; color: grey;">
 <h1>Memes:</h1>
 <br>
-<img src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_1.png">
-<img src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_2.png">
-<img src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_3.png">
+<div style="display: flex; align-items: stretch;">
+  <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_1.png">
+  <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_2.png">
+  <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_3.png">
+</div>
+<br>
 <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
