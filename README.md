@@ -52,4 +52,9 @@
 </div>
 <br>
 <hr style="height: 15px; color: grey;">
+<h1>Memes:</h1>
+<br>
+<img src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_1.png">
+<img src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_2.png">
+<img src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_3.png">
 <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
