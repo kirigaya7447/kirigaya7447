@@ -28,10 +28,10 @@
 <hr style="height: 10px; color: grey;">
 <div>
   <h3>Know Operating Systems:</h3>
-  <img id="windows" height="150px" width="165px" src="https://cdn.pixabay.com/photo/2012/04/10/23/33/logo-27046_1280.png">
-  <img id="ubuntu" height="125px" width="215px" src="https://logodownload.org/wp-content/uploads/2017/11/ubuntu-logo.png">
-  <img id="debian" height="155px" width="225px" src="https://penseemti.com.br/wp-content/uploads/2020/08/debian-logo.png">
-  <img id="kali" height="145px" width="185px" src="https://static.javatpoint.com/tutorial/kali-linux/images/kali-linux-tutorial1.png">
+  <img id="windows" height="150px" width="180px" src="https://cdn.pixabay.com/photo/2012/04/10/23/33/logo-27046_1280.png">
+  <img id="ubuntu" height="125px" width="240px" src="https://logodownload.org/wp-content/uploads/2017/11/ubuntu-logo.png">
+  <img id="debian" height="155px" width="300px" src="https://penseemti.com.br/wp-content/uploads/2020/08/debian-logo.png">
+  <img id="kali" height="145px" width="245px" src="https://static.javatpoint.com/tutorial/kali-linux/images/kali-linux-tutorial1.png">
 </div>
 <br>
 <hr style="height: 10px; color: grey;">
