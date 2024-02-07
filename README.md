@@ -52,6 +52,12 @@
 </div>
 <br>
 <hr style="height: 15px; color: grey;">
+<br>
+<h3>Meu currículo:(My curriculum)</h3>
+<a href="https://docs.google.com/document/d/1YZe37h4YuNWH4la8Vaiuub2pnA_vJCcbQIjDwCwFwWw/edit?usp=sharing">Currículo em português</a>
+<a href="https://docs.google.com/document/d/1Ng4f1Ns9wBsTCZKY0Rrxe6ND7RgpZLaVSjmpXj8iIfY/edit?usp=sharing">Curriculum in english</a>
+<br>
+<hr style="height: 15px; color: grey;">
 <h1>Memes:</h1>
 <br>
 <div style="display: flex; align-items: stretch;">
