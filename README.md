@@ -37,8 +37,9 @@
 <hr style="height: 10px; color: grey;">
 <div>
   <h3>Courses:</h3>
-  <img id="ite" height="150px" width="170px" src="https://guiadeti.com.br/wp-content/uploads/2021/09/guia-cursos-cisconetworkingacademy.png">
   <img id="tdi" height="150px" width="130px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
+  <br>
+  <a href="https://drive.google.com/file/d/10YpK-fQ3LxSSWr8rDLjqbs4hmEOlFP7z/view?usp=sharing">Certificado Técnicas de Invasão</a>
 </div>
 <br>
 <hr style="height: 15px; color=grey;">
