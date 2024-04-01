@@ -23,6 +23,8 @@
     <img height="145px" width="120px" src="https://portal.poa.ifsuldeminas.edu.br/images/2018/Agosto/22/IFSULDEMINAS_Pouso-Alegre-aplica%C3%A7%C3%B5es-verticais.png"></a>
   <br>
   <small>Click in image!</small>
+  <br>
+  <a href="https://drive.google.com/file/d/1ShfENs48B1a30Bw_NrAcYPezeCT1voBm/view?usp=sharing">Certificado de conclusão do curso</a>
 </div>
 <br>
 <hr style="height: 10px; color: grey;">
