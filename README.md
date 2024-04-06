@@ -57,6 +57,9 @@
   <br>
   <a href="https://github.com/kirigaya7447/react-native">Studying react</a>
   <p>My studies with react-native expo. I made some directories targeted at some specific functions.</p>
+  <br>
+  <a href="https://github.com/kirigaya7447/intensivo-python">Studying analysss of data in python</a>
+  <p>By taking Alura's course, I learned how to read Excel spreadsheets, analyze data, execute formulas and all of this in Python, a language that is becoming increasingly relevant.</p>
 </div>
 <br>
 <hr style="height: 15px; color: grey;">
