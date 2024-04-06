@@ -39,9 +39,14 @@
 <hr style="height: 10px; color: grey;">
 <div>
   <h3>Courses:</h3>
-  <img id="tdi" height="150px" width="130px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
+  <img id="tdi" height="150px" width="180px" src="https://pbs.twimg.com/media/B-XgsHPIcAAIPXo.jpg">
   <br>
   <a href="https://drive.google.com/file/d/10YpK-fQ3LxSSWr8rDLjqbs4hmEOlFP7z/view?usp=sharing">Certificado Técnicas de Invasão</a>
+  <br>
+  <br>
+  <img id="alura" height="150px" width="200px" src="https://www.tramparonline.com/wp-content/uploads/2023/03/alura.png">
+  <br>
+  <a href="#">Certificado Alura(esperando a postagem dele no dia 08/04)</a>
 </div>
 <br>
 <hr style="height: 15px; color=grey;">
