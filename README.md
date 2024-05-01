@@ -46,7 +46,7 @@
   <br>
   <img id="alura" height="150px" width="200px" src="https://www.tramparonline.com/wp-content/uploads/2023/03/alura.png">
   <br>
-  <a href="https://drive.google.com/file/d/1X8mHs_1M0cgmj3tl9vL1S0MAxvKVGc74/view?usp=sharing">Certificado Alura(esperando a postagem dele no dia 08/04)</a>
+  <a href="https://drive.google.com/file/d/1X8mHs_1M0cgmj3tl9vL1S0MAxvKVGc74/view?usp=sharing">Certificado Alura</a>
 </div>
 <br>
 <hr style="height: 15px; color=grey;">
@@ -60,6 +60,9 @@
   <br>
   <a href="https://github.com/kirigaya7447/intensivo-python">Studying analysis of data in python</a>
   <p>By taking Alura's course, I learned how to read Excel spreadsheets, analyze data, execute formulas and all of this in Python, a language that is becoming increasingly relevant.</p>
+  <br>
+  <a href="https://github.com/kirigaya7447/Agenda">Schedule</a>
+  <p>A schedule made in HTML, CSS and JS, with a focus on JS. It is possible to schedule, complete and modify the order of tasks.</p>
 </div>
 <br>
 <hr style="height: 15px; color: grey;">
