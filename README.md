@@ -46,7 +46,7 @@
   <br>
   <img id="alura" height="150px" width="200px" src="https://www.tramparonline.com/wp-content/uploads/2023/03/alura.png">
   <br>
-  <a href="#">Certificado Alura(esperando a postagem dele no dia 08/04)</a>
+  <a href="https://drive.google.com/file/d/1X8mHs_1M0cgmj3tl9vL1S0MAxvKVGc74/view?usp=sharing">Certificado Alura(esperando a postagem dele no dia 08/04)</a>
 </div>
 <br>
 <hr style="height: 15px; color=grey;">
