@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirigaya7447&layout=donut)](https://github.com/kirigaya7447/react-native)
 <div>
-  <h2>Hello my name is João Henrique, I have 17 years and living from Brazil</h2>
+  <h2>Hello my name is João Henrique, I have 17 years old and living from Brazil</h2>
   <p>Program in:</p>
   <img id="cLang" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
   <img id="java" height="95px" width="65px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
