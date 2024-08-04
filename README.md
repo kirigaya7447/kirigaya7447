@@ -91,6 +91,8 @@
       <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_3.png">
     </div>
     <br>
-    <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
+    <div align="center">
+      <img height="560px" width="560px" src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif">
+    </div>
   </body>
 </html>
