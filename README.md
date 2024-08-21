@@ -86,9 +86,9 @@
     <h1>Memes:</h1>
     <br>
     <div align="center" style="display: flex; align-items: stretch;">
-      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_1.png">
-      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_2.png">
-      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/memecartoon_3.png">
+      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/Memes/memecartoon_1.png">
+      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/Memes/memecartoon_2.png">
+      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/blob/main/Memes/memecartoon_3.png">
     </div>
     <br>
     <div align="center">
