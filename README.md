@@ -88,7 +88,7 @@
     <div align="center" style="display: flex; align-items: stretch;">
       <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/tree/main/Images/Memes/memecartoon_1.png">
       <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/tree/main/Images/Memes/memecartoon_2.png">
-      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/tree/main/Images/Memes/memecartoon_3.png">
+      <img height="425px" width="325px" style="float: left;" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Memes/memecartoon_3.png">
     </div>
     <br>
     <div align="center">
