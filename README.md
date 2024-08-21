@@ -10,14 +10,14 @@
       </div>
       <br>
       <h3>I'm program in:</h3>
-      <img id="cLang" height="80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-      <img id="java" height="95px" width="65px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      <img id="python" height="80px" width="80px" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png">
-      <img id="html" height="80px" width="80px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-      <img id="css" height="85px" width="90px" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
-      <img id="js" height="95px" width="90px" src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1">
-      <img id="php" height="95px" width="115px" src="https://logospng.org/download/php/logo-php-1024.png">
-      <img id="react" height="90px" width="90px" src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png">
+      <img id="cLang" height="80px" width="80px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/c_language.png">
+      <img id="java" height="95px" width="65px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/java.png">
+      <img id="python" height="80px" width="80px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/python.png">
+      <img id="html" height="80px" width="80px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/html.png">
+      <img id="css" height="85px" width="90px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/css.png">
+      <img id="js" height="95px" width="90px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/javascript.png">
+      <img id="php" height="95px" width="115px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/php.png">
+      <img id="react" height="90px" width="90px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Languages/react_js.png">
     </div>
     <br>
     <div align="center">
@@ -36,10 +36,10 @@
     <hr style="height: 10px; color: grey;">
     <div align="center">
       <h3>Know Operating Systems:</h3>
-      <img id="windows" height="150px" width="180px" src="https://cdn.pixabay.com/photo/2012/04/10/23/33/logo-27046_1280.png">
-      <img id="ubuntu" height="125px" width="240px" src="https://logodownload.org/wp-content/uploads/2017/11/ubuntu-logo.png">
-      <img id="debian" height="155px" width="300px" src="https://penseemti.com.br/wp-content/uploads/2020/08/debian-logo.png">
-      <img id="kali" height="145px" width="245px" src="https://seeklogo.com/images/K/kali-linux-logo-C2BE66F313-seeklogo.com.png">
+      <img id="windows" height="150px" width="180px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/windows.png">
+      <img id="ubuntu" height="125px" width="240px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/ubuntu.png">
+      <img id="debian" height="155px" width="300px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/debian.png">
+      <img id="kali" height="145px" width="245px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/kali.png">
     </div>
     <br>
     <hr style="height: 10px; color: grey;">
@@ -86,8 +86,8 @@
     <h1>Memes:</h1>
     <br>
     <div align="center" style="display: flex; align-items: stretch;">
-      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/tree/main/Images/Memes/memecartoon_1.png">
-      <img height="425px" width="325px" style="float: left;" src="https://github.com/kirigaya7447/kirigaya7447/tree/main/Images/Memes/memecartoon_2.png">
+      <img height="425px" width="325px" style="float: left;" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Memes/memecartoon_1.png">
+      <img height="425px" width="325px" style="float: left;" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Memes/memecartoon_2.png">
       <img height="425px" width="325px" style="float: left;" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Memes/memecartoon_3.png">
     </div>
     <br>
