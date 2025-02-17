@@ -32,6 +32,18 @@
       <br>
       <a href="https://drive.google.com/file/d/1mEhxyOenGh1ED5SiVuqYzBvyv7VCjqqM/view?usp=sharing">Certificado de conclusão do curso</a>
     </div>
+    <div align="center">
+      <hr style="height: 10px; color: grey;">
+      <h3>Bachelor's Degree in Information Systems from :</h3>
+      <p>Univás: Universidade do Vale do Sapucaí</p>
+      <p>Address: Av. Prefeito Tuany Toledo, 470 - Fatima, Pouso Alegre - MG, 37550-000</p>
+      <a href="https://maps.app.goo.gl/sFEmr3tRCSxS3F7b7" target="_blank">
+        <img height="145px" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Univas_Logo_2015.jpg">       
+      </a>
+      <br>
+      <small>Click in image!</small>
+      <br>
+    </div>
     <br>
     <hr style="height: 10px; color: grey;">
     <div align="center">
@@ -40,6 +52,7 @@
       <img id="ubuntu" height="125px" width="240px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/ubuntu.png">
       <img id="debian" height="155px" width="300px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/debian.png">
       <img id="kali" height="145px" width="245px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/kali.png">
+      <img id="suse" height="150px" width="150px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/open_suse.png">
     </div>
     <br>
     <hr style="height: 10px; color: grey;">
