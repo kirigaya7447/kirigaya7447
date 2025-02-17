@@ -48,11 +48,11 @@
     <hr style="height: 10px; color: grey;">
     <div align="center">
       <h3>Know Operating Systems:</h3>
-      <img id="windows" height="150px" width="180px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/windows.png">
-      <img id="ubuntu" height="125px" width="240px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/ubuntu.png">
-      <img id="debian" height="155px" width="300px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/debian.png">
-      <img id="kali" height="145px" width="245px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/kali.png">
-      <img id="suse" height="150px" width="150px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/open_suse.png">
+      <img id="windows" align="center" height="150px" width="180px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/windows.png">
+      <img id="ubuntu" align="center" height="125px" width="240px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/ubuntu.png">
+      <img id="debian" align="center" height="155px" width="300px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/debian.png">
+      <img id="kali" align="center" height="145px" width="245px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/kali.png">
+      <img id="suse" align="center" height="150px" width="150px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/open_suse.png">
     </div>
     <br>
     <hr style="height: 10px; color: grey;">
