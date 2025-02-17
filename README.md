@@ -38,7 +38,7 @@
       <p>Univás: Universidade do Vale do Sapucaí</p>
       <p>Address: Av. Prefeito Tuany Toledo, 470 - Fatima, Pouso Alegre - MG, 37550-000</p>
       <a href="https://maps.app.goo.gl/sFEmr3tRCSxS3F7b7" target="_blank">
-        <img height="145px" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Univas_Logo_2015.jpg">       
+        <img height="145px" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Univas_Logo_2015.jpg">       
       </a>
       <br>
       <small>Click in image!</small>
