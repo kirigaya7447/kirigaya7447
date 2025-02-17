@@ -49,9 +49,13 @@
     <div align="center">
       <h3>Know Operating Systems:</h3>
       <img id="windows" align="center" height="150px" width="180px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/windows.png">
+      <br>
       <img id="ubuntu" align="center" height="125px" width="240px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/ubuntu.png">
+      <br>
       <img id="debian" align="center" height="155px" width="300px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/debian.png">
+      <br>
       <img id="kali" align="center" height="145px" width="245px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/kali.png">
+      <br>
       <img id="suse" align="center" height="150px" width="150px" src="https://raw.githubusercontent.com/kirigaya7447/kirigaya7447/main/Images/Systems/open_suse.png">
     </div>
     <br>
